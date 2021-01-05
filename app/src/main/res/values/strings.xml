@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGameUZ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spin_message">Oynash</string>
+    <string name="win_message">!!!!!! Siz YUTDINGIZ !!!!!!</string>
+    <string name="lose_message">Afsus yutqizdingiz </string>
+    <string name="almost_message">Afsus Sal qolishiga sal qoldi)))</string>
+</resources>
